@@ -1,0 +1,9 @@
+torch
+transformers
+typing
+lumibot
+alpaca-py
+alpaca-trade-api
+alpha_vantage
+lib-pybroker
+bs4
